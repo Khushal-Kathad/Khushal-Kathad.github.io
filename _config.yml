@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:https://drive.google.com/file/d/1fQpBuDxbg056SAxHKa5d3NYlL4wOd7Ez/view?usp=sharing
+avatar: C:\\Users\\91982\\Desktop\\Myblog\\Khushal-Kathad.github.io\\images\\PASSPORTSNAPS.jpg
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
